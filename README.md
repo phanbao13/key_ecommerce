@@ -137,10 +137,6 @@ If you want to use development versions of the Dockerfiles, you need to setup do
 * No cargo firm selecting when purchasing.
 * Mobile devices are not supported, yet. Contributons are welcome!
 
-## Contributing
-
-If you want to contribute to this project you can email me - antkaynak1@gmail.com or you can pull request.
-
 ## Versioning
 
 This project does not have versioning and made with learning purposes.
